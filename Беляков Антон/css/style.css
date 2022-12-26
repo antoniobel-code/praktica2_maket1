@@ -1,0 +1,154 @@
+
+body {
+  background:#212226;
+  font-family:"Open Sans";
+}
+.header {
+  display: flex;
+  flex-direction: row-reverse;
+  background:#303136;
+  margin:35px;
+  margin-top: 60px;
+  border-radius:5px;
+  padding: 5px;
+}
+h1 {
+  margin-inline: 15px;
+  font-size: 20px;
+  color: #babbbf;
+}
+.logo {
+  padding-right: 790px;
+  color: #646fd2;
+}
+.flex {
+  display: flex;
+}
+.screen {
+  display: flex;
+  border-radius: 5px;
+  background:#303136;
+  margin-left: 25px;
+  margin-right:35px;
+  padding: 10px;
+}
+.screen1 {
+  display: flex;
+  border-radius: 5px;
+  background:#303136;
+  margin-left: 25px;
+  margin-right:35px;
+  padding: 10px;
+}
+ .img {
+   float: right;
+   margin: 20px;
+   border-radius: 6px;
+   background: #babbbf;
+   width: 400px;
+   height: 300px;
+ }
+ .txt {
+   width: fit-content;
+ font-weight: 600;
+ font-size: 19px;
+ margin-top: 73px;
+ color: #babbbf;
+ margin-right: 13px;
+ }
+ .banners {
+   margin-top: 35px;
+   display: flex;
+ }
+ .banner {
+       background: #303136;
+       margin-left: 35px;
+       border-radius: 5px;
+ }
+ .banner2 {
+   width: 1020px;
+   padding: 20px;
+       display: flex;
+       background: #303136;
+       margin-left: 30px;
+       color: #303136;
+       border-radius: 5px;
+       justify-content: space-around;
+       align-items: center;
+}
+ .img2 {
+        border-radius: 5px;
+   background: #babbbf;
+    width: 125px;
+    height: 155px;
+    margin: 25px;
+ }
+ .a {
+        border-radius: 5px;
+   background: #babbbf;
+   margin: 20px;
+   width: 150px;
+   height: 70px;
+ }
+ .b {
+        border-radius: 5px;
+      background: #babbbf;
+         margin: 20px;
+      width: 150px;
+      height: 70px;
+ }
+ .c {
+        border-radius: 5px;
+      background: #babbbf;
+         margin: 20px;
+      width: 150px;
+      height: 70px;
+ }
+ .d {
+        border-radius: 5px;
+      background: #babbbf;
+         margin: 20px;
+      width: 150px;
+      height: 70px;
+ }
+ .bottom {
+  height: 160px;
+  margin-top: 35px;
+  width: 1020px;
+  padding: 20px;
+  display: flex;
+  background: #303136;
+  margin-left: 240px;
+  color: #303136;
+  border-radius: 5px;
+  justify-content: space-around;
+  align-items: center;
+ }
+.q {
+  border-radius: 5px;
+  background: #babbbf;
+  margin: 20px;
+  width: 150px;
+  height: 70px;
+}
+.w {
+  border-radius: 5px;
+  background: #babbbf;
+  margin: 20px;
+  width: 150px;
+  height: 70px;
+}
+.e {
+  border-radius: 5px;
+  background: #babbbf;
+  margin: 20px;
+  width: 150px;
+  height: 70px;
+}
+.r {
+  border-radius: 5px;
+  background: #babbbf;
+  margin: 20px;
+  width: 150px;
+  height: 70px;
+}
